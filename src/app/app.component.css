@@ -1,0 +1,9 @@
+.rectangle {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background-color: rgb(66, 185, 51);
+  border: 1px solid rgb(238, 234, 234);
+  border-radius: 4px;
+  margin: .5rem;
+}
